@@ -1,0 +1,13 @@
+﻿# IDE and Local settings
+.vs/
+*.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Local configuration files
+appsettings.Development.json
+
+# Publish output
+[Pp]ublish/

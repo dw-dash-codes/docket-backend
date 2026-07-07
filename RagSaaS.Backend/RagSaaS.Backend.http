@@ -1,0 +1,6 @@
+@RagSaaS.Backend_HostAddress = http://localhost:5097
+
+POST {{RagSaaS.Backend_HostAddress}}/Document/UploadPdf
+Accept: application/json
+
+###
